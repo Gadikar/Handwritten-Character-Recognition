@@ -1,1 +1,1 @@
-# 200941283004_Group3
+# Handwritten Character Recognition
